@@ -12,14 +12,16 @@ untuk mendapatkan skor sebanyak mungkin dalam waktu 30 detik.
 - MediaPipe
 
 ## Cara Menjalankan
+1. Clone Repository Ini
+git clone https://github.com/bintangcloud/energy-catch-game.git
+cd energy-catch-game
 
-1. Install dependencies
+2. Install dependencies
+Gunakan perintah berikut untuk menginstal semua dependencies:
+pip install opencv-python mediapipe
 
-pip install -r requirements.txt
-
-2. Jalankan program
-
-python game.py
+3. Jalankan program
+python EnergyCatch.py
 
 ## Kontrol
 - Gerakkan jari telunjuk untuk menyentuh bola
