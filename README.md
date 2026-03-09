@@ -21,7 +21,7 @@ Gunakan perintah berikut untuk menginstal semua dependencies:
 pip install opencv-python mediapipe
 
 3. Jalankan program
-python EnergyCatch.py
+python EnergyCatchGame.py
 
 ## Kontrol
 - Gerakkan jari telunjuk untuk menyentuh bola
